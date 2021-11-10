@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" width="80">, I'm Emanuel</h1>
+<h1 align="center">Hi <img align="center" src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" width="80">, I'm Emanuel</h1>
 <h3 align="center">I'm FullStack JavaScript Developer</h3>
 
 <img align='right' src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="230">
