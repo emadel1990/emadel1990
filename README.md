@@ -3,13 +3,13 @@
 
 <img align='right' src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="230">
 
-- 🔭 I’m currently working in: [NBCH](https://www.nbch.com.ar/)
+- 🔭 I’m currently working in: [NBCH](https://www.nbch.com.ar/) and [Newbitcrew](https://www.newbitcrew.com/)
 
 - 👨‍💻 My personal portfolio is available in: [coming soon!](coming soon!)
 
 - 💬 Ask me about: *React, CSS, Web Development and Clean Code*
 
-- 🌱 I’m currently learning: *TypeScript & Redux*
+- 🌱 I’m currently learning: *Redux and Nextjs*
 
 - 📫 How to reach me: *emadevjs@gmail.com*
 
