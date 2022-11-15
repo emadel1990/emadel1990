@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emanuel</h1>
-<h3 align="center">I'm FullStack JavaScript Developer</h3>
+<h3 align="center">I'm Frontend JavaScript React Developer</h3>
 
 <img align='right' src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="230">
 
-- 🔭 I’m currently working in: [NBCH](https://www.nbch.com.ar/) and [Newbitcrew](https://www.newbitcrew.com/)
+- 🔭 I’m currently working in: [Dirmod](https://www.nbch.com.ar/)
 
 - 👨‍💻 My personal portfolio is available in: [coming soon!](coming soon!)
 
