@@ -3,9 +3,9 @@
 
 <img align='right' src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="230">
 
-- 🔭 I’m currently working at: [Dirmod](https://www.nbch.com.ar/)
+- 🔭 I’m currently working at: [Kindred](http://www.kindred.cz)
 
-- 👨‍💻 My personal portfolio is available in: [coming soon!](coming soon!)
+- 👨‍💻 My personal portfolio is available in: [Here!](https://www.emanuel-delgado.com/)
 
 - 💬 Ask me about: *React, CSS, Web Development and Clean Code*
 
