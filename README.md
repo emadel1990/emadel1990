@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emanuel</h1>
-<h3 align="center">I am a Fullstack Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <img align='right' src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="230">
 
