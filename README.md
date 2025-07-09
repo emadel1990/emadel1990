@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: *React, CSS, Web Development and Clean Code*
 
-- 🌱 I’m currently learning: *Redux and Nextjs*
+- 🌱 I’m currently focus on: *NestJS and Next.js*
 
 - 📫 How to reach me: *emadevjs@gmail.com*
 
