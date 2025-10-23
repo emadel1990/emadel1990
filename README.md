@@ -3,7 +3,7 @@
 
 <img align='right' src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="230">
 
-- 🔭 I’m currently working at: [Kindred](http://www.kindred.cz)
+- 🔭 I’m currently working at: [Publicis Groupe](https://www.publicisgroupe.cz)
 
 - 👨‍💻 My personal portfolio is available in: [Here!](https://www.emanuel-delgado.com/)
 
